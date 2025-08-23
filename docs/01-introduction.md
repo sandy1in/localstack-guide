@@ -1,0 +1,3 @@
+# Introduction to LocalStack
+
+LocalStack is an open-source tool that simulates AWS cloud services locally...
